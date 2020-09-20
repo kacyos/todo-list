@@ -1,0 +1,17 @@
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.lixeira {
+    width: 30px;
+    vertical-align: middle;
+    margin-left: 5px;
+    transform: all 1s;
+}
+
+.lixeira:hover{
+    width: 32px;
+    cursor: pointer;
+}
