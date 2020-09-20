@@ -1,5 +1,5 @@
 # To do List
 
-aplicação criada utilizando class components para criar uma lista de to do.
+aplicação criada utilizando class components para criar uma lista de tarefas.
 
 ![to do list](todo_list.gif)
